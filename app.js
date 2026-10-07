@@ -80,7 +80,7 @@ function greetUser(name , timeOfDay){
     return "Good" + timeOfDay + "," + name + "!"
 }
 
-console.log('Exercise 5 Result:', greetUser("Sam", "morning"));
+console.log('Exercise 5 Result:', greetUser(" Sam", "morning"));
 
 /*
 Exercise 6: maxOfThree()
