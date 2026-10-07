@@ -38,7 +38,7 @@ function isCharAVowel(char){
         return true
     }
     else{
-        return flase
+        return false
     }
 }
 
